@@ -1,0 +1,87 @@
+
+siteName: 黑料社区
+homeDomain: 牢记回家网址：xgua5.tv, xgua66.tv, hls5.ai
+cdn: https://bjk.mcmulf.com/
+fileDomain: https://bstatic.514410.com/exclusive/
+zoneName1: 成人视频
+zoneName2: 黑料专区
+homePageJump: https://911035.com
+
+siteName: 绿帽社
+homeDomain: 牢记回家网址：lms1.ai, lms2.ai, lvm3.tv
+cdn: https://bjk.jciubg.com/
+fileDomain: https://bstatic.908954.com/exclusive/
+zoneName1: 精选AV
+zoneName2: 绿帽专区
+homePageJump: https://467694.com
+
+siteName: 草榴AV
+homeDomain: 牢记回家网址：sao69.vip, c1c1.ai
+cdn: https://bjk2.prgfjjv.com/
+fileDomain: https://bstatic.164695.com/exclusive/
+zoneName1: 草榴AV
+zoneName2: 宅福利
+homePageJump: https://810702.com
+
+siteName: 爱妻艺
+homeDomain: 牢记回家网址：iqy2.ai, iqy3.ai, iqy7.ai
+cdn: https://bjk3.wwwzzy.com/
+fileDomain: https://bstatic.065692.com/exclusive/
+zoneName1: 绿帽绝活
+zoneName2: 妻友专区
+homePageJump: https://395357.com
+
+siteName: 乱伦社
+homeDomain: 牢记回家网址：luan4.ai, 2luan.tv
+cdn: https://bjk5.rbbousw.com/
+fileDomain: https://bstatic.313874.com/exclusive/
+zoneName1: AV大全
+zoneName2: 乱伦专区
+homePageJump: https://729032.com
+
+siteName: 大大香蕉
+homeDomain: 牢记回家网址：dxj4.ai, dxj3.ai, dxj2.tv
+cdn: https://bjk2.nxzpjo.com/
+fileDomain: https://bstatic.913619.com/exclusive/
+zoneName1: AV大全
+zoneName2: 香蕉专区
+homePageJump: https://479464.com
+
+siteName: 名媛
+homeDomain: 牢记回家网址：myjj1.tv, myjj3.tv, myjj2.tv
+cdn: https://bjk.mcmulf.com/
+fileDomain: https://bstatic.424710.com/exclusive/
+zoneName1: 精选HD
+zoneName2: 名媛专区
+homePageJump: https://942293.com
+
+siteName: 成欢阁
+homeDomain: 牢记回家网址：d5s.ai, d4s.ai, d1s.ai
+cdn: https://bjk1.vqnrjly.com/
+fileDomain: https://bstatic.003242.com/exclusive/
+zoneName1: 高分色情
+zoneName2: 资深狼友
+homePageJump: https://421832.com
+
+siteName: 69圈
+homeDomain: 牢记回家网址：69b.ai, 69a.ai, 69p.ai
+cdn: https://bjk.mcmulf.com/
+fileDomain: https://bstatic.514410.com/exclusive/
+zoneName1: 撸视频
+zoneName2: 刷福利
+homePageJump: https://275530.com
+
+
+
+
+ videoDomain:
+						
+https://bspbf.657924.com:56443/exclusive/
+ https://bspbf.649328.com/exclusive/ 
+https://bspbf.126357.com:56443/exclusive/ 
+https://bspbf.649328.com/exclusive/ https://bspbf.657924.com:56443/exclusive/ https://bspbf.126357.com:56443/exclusive/
+
+
+
+
+

@@ -1,0 +1,7 @@
+
+分类
+https://lbapi9.com/api.php/provide/art/at/json/?ac=list
+列表
+https://lbapi9.com/api.php/provide/art/at/json/?ac=list&t=23&pg=1&limit=20
+详情
+https://lbapi9.com/api.php/provide/art/at/json/?ac=detail&ids=27080
