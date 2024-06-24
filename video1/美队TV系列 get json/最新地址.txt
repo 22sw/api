@@ -1,0 +1,84 @@
+网页版 https://dzx111.com/  -    https://dzx555.com/
+
+app永久地址  mdkp.live
+
+
+获取破解平台列表【名称、id】
+
+https://api.736136.com/api/video/get/menu
+
+
+1. id: 66
+   name: LBW
+   logo: ![LBW](https://mdapi.zhbt01.com/storage/video/banner/2024-01-3165b92fda07122.png)
+   created_at: 2021-08-22 21:29:55
+
+2. id: 284
+   name: 丝瓜视频
+   logo: ![丝瓜视频](https://mdapi.zhbt01.com/storage/video/banner/2024-01-2765b3f09531b54.png)
+   created_at: 2021-11-25 13:00:18
+
+3. id: 312
+   name: 奶香社区
+   logo: ![奶香社区](https://mdapi.zhbt01.com/storage/video/banner/2023-04-07642ff11483b56.png)
+   created_at: 2021-12-01 01:12:01
+
+4. id: 154
+   name: 天天视频
+   logo: ![天天视频](https://img1.baidu.com/it/u=3460989175,327846886&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500)
+   created_at: 2021-08-28 00:16:37
+
+5. id: 70
+   name: 香蕉视频
+   logo: ![香蕉视频](https://mdapi.zhbt01.com/storage/video/banner/2024-01-2765b3efe866669.png)
+   created_at: 2021-08-23 01:58:45
+
+6. id: 167
+   name: 小青视频
+   logo: ![小青视频](https://mdapi.zhbt01.com/storage/video/banner/2024-02-2565db23c74ab0a.png)
+   created_at: 2021-08-28 15:22:23
+
+7. id: 71
+   name: 自由岛
+   logo: ![自由岛](https://mdapi.zhbt01.com/storage/video/banner/2024-02-2565db23780b3e8.jpg)
+   created_at: 2021-08-23 02:00:34
+
+8. id: 74
+   name: 丝瓜视频
+   logo: ![丝瓜视频](https://mdapi.zhbt01.com/storage/video/banner/2024-01-2765b3effad4804.jpeg)
+   created_at: 2021-08-23 02:06:05
+
+9. id: 76
+   name: 草莓
+   logo: ![草莓](https://mdapi.zhbt01.com/storage/video/banner/2024-01-2765b3f00d17518.png)
+   created_at: 2021-08-23 02:09:53
+
+10. id: 246
+    name: 苦瓜视频
+    logo: ![苦瓜视频](https://img1.baidu.com/it/u=3906455417,376630130&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500)
+    created_at: 2021-11-21 03:29:36
+
+11. id: 72
+    name: ai71【黑了社区sooo.tv/xgua5.tv】
+    logo: ![ai71](https://mdapi.zhbt01.com/storage/video/banner/2024-02-2565db2101186f6.jpg)
+    created_at: 2021-08-23 02:02:09
+
+12. id: 73
+    name: 丝瓜视频
+    logo: ![丝瓜视频](https://p0.qhimg.com/t01728010eedcbdd21c.png)
+    created_at: 2021-08-23 02:03:36
+
+13. id: 197
+    name: 红杏视频
+    logo: ![红杏视频](https://pp.myapp.com/ma_icon/0/icon_53987466_1664158195/256)
+    created_at: 2021-09-04 14:54:57
+
+14. id: 302
+    name: 丁丁视频
+    logo: ![丁丁视频](https://mdapi.zhbt01.com/storage/video/banner/2024-01-2765b3f0c92bc63.jpeg)
+    created_at: 2021-11-30 18:22:27
+
+15. id: 292
+    name: 万能搜索
+    logo: ![万能搜索](https://mdapi.zhbt01.com/storage/video/banner/2024-01-2765b3f01ff2202.jpeg)
+    created_at: 2021-11-27 00:14:06
